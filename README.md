@@ -205,3 +205,36 @@ _Deliverable: Docs & Loom walkthrough_
 ### Day 30: Final Project Demo Day   
 Present your project and review code.  
 _Deliverable: Final Demo Day_  
+
+
+---
+---
+
+# My Experince at this Internship
+
+## My Work
+
+### Assignment 1
+GitHub repo: [link](https://github.com/luffy-2606/Nexium_Saaif_Assign1)   
+Live Site: [link](https://nexium-assignment-1.vercel.app)   
+
+### Assignment 2
+GitHub repo: [link](https://github.com/luffy-2606/Nexium_Saaif_Assign2)   
+Live Site: [link](https://nexium-assignment-2.vercel.app)    
+
+### Grand Project 
+GitHub repo: [link](https://github.com/luffy-2606/Nexium_Saaif_GrandProject)    
+Live Site: [link](https://nexium-project.vercel.app)      
+
+_So these are all the assgnments + project that I did. There was as such no help given to us regarding these assignemnts/project, but rather an email was given to contact in case of any questions._
+
+## Attendance and Deadlines
+This internship was remote, so the attendance was taken through Google Classroom.    
+Time-in was posted at 11:00 AM, which was due at 11:30 AM.   
+Time-out was posted at 6:00 PM, which was due at 6:30 PM.   
+
+Deadlines weren't strictly followed, all of them were delayed by one day "due to multiple requests".
+
+## Overall Opinion
+Overall, this was a great oppurtunity for students to learn. But seeing the LinkedIn posts made by the other interns, and observing their repos, most of them used AI to make their projects. And the crazy thing is they weren't even trying to hide it. Even the LinkedIn caption was written with GPT. Idk what these people are even thinking. This was an oppurtunity to learn and grow under a "professional" environment, but most used it to flex their prompting skills on the brain-dead-linkedin-cornballs.   
+The main reason why the company, Nexium, offered this free internship to almost everybody was probably because they wanted to gain public attention. This can be seen from the fact that when I applied here, they had about 500 followers, but when I completed in a month they had grown to 3,500 followers. It is kind of impressive, how easy it is to gain a following/reputation by the interns flexing your internship even though you just sent them a website link with a bundle of YouTube videos attached. Great way to play the linkedin goons.
