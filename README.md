@@ -224,7 +224,7 @@ Live Site: [link](https://nexium-assignment-2.vercel.app)
 
 ### Grand Project 
 GitHub repo: [link](https://github.com/luffy-2606/Nexium_Saaif_GrandProject)    
-Live Site: [link](https://nexium-project.vercel.app)      
+Live Site: [link](https://nexium-grand-project.vercel.app)      
 
 _So these are all the assgnments + project that I did. There was as such no help given to us regarding these assignemnts/project, but rather an email was given to contact in case of any questions._
 
